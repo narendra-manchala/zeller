@@ -28,11 +28,11 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 ### `Implementation Details`
-#### `Folder Structure` \
+#### `Folder Structure`
 `src/components` - Reusable UI components are included here \
 `src/graphql` - Graphql queries and mutations will be placed here \
 `src/lib` - Apollo Client configuration for AWS Appsync is done here \
-`src/styles` - Reusable styles are in this folder \
+`src/styles` - Reusable styles are in this folder
 
 #### Styled Components - are used for components styling
 #### Apollo Client
